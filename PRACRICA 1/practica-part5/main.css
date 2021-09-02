@@ -98,6 +98,11 @@ nav a {
     box-sizing: border-box;
 }
 
+.articulo2 img {
+    width: 20%;
+    margin-left: 40%;
+}
+
 .articulo2 p {
     padding: 10px;
     box-sizing: border-box;
